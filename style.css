@@ -447,3 +447,11 @@ html, body{
     color: #a86545;
 }  
 
+.me img{
+    width: 550px;
+    height: 550px; 
+     border-radius: 50%;
+    border: 2px solid black;
+    margin-right: 500px;
+}
+
